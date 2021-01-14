@@ -1,0 +1,10 @@
+.vm1{
+    background-image: url("img/b2.jpg");
+    background-size: 100%,100%;
+min-height: 100%;
+background-repeat: no-repeat;
+}
+.vm2{
+height: 80px;
+
+}
